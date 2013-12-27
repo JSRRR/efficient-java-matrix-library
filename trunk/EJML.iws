@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="2aa233b3-7f86-43d1-b24a-257582ab2f2d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/ejml/UtilEjml.java" afterPath="$PROJECT_DIR$/src/org/ejml/UtilEjml.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.xml" afterPath="$PROJECT_DIR$/build.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/change.txt" afterPath="$PROJECT_DIR$/change.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/release-checklist.txt" afterPath="$PROJECT_DIR$/docs/release-checklist.txt" />
-    </list      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experimental/test/org/ejml/alg/dense/decompose" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experimental/src/org/ejml/alg/dense/decomposition/lu" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experimental/test/org/ejml/alg/dense/decompose/lu" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/src/org/ejml/example/ExampleFixedSizedMatrix.java" /     <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experimental/src/org/ejml/alg/dense/decomposition/lu" />
+      <list id="d918aade-e83e-48be-9f66-488275b6223a" name="Failed commit: Default" comment="Failed commit: Default" /      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/experimental/test/org/ejml/alg/dense/decompose/lu" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/src/org/ejml/alg/dense/decomposition/lu/LUDecompositionNR.java" afterPath="$PROJECT_DIR$/experimental/src/org/ejml/alg/dense/decomposition/lu/LUDecompositionNR.java" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/test/org/ejml/alg/dense/decomposition/lu/TestLUDecompositionNR.java" afterPath="$PROJECT_DIR$/experimental/test/org/ejml/alg/dense/decompose/lu/TestLUDecompositionNR.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/src/org/ejml/example/PolynomialR88105132898ava" afterPath="$PROJECT_DIR$/examples/src/org/ejml/example/PolynomialRootFinder.java" />
@@ -30,8 +24,17 @@
     <file path="/Dummy.txt" changelist="2aa233b3-7f86-43d1-b24a-257582ab2f2d" time="1362613118121" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
-    <option nDummy.txt" changelist="2aa233b3-7f86-43d1-b24a-257582ab2f2d" time="1362613118319" ignored="fa88105106522" ignored="false" />
-    <file path="/build.xml" changelist="2aa233b3-7f86-43d1-b24a-257582ab2f2d" time="1388104979081e="false" />
+    <option nDummy.txt" /build.xml" changelist="2aa233b3-7f86-43d1-b24a-257582ab2f2d" time="1388104979081" ignored="false" />
+    <file path="$PROJECT_DIR$/src/org/ejml/alg/dense/decomposition/qr/QRDecompositionHouseholderTran.java" changelist="2aa233b3-7f86-43d1-b24a-257582ab2f2d" time="1388108349985" ignored="false" />
+    <file path="$PROJECT_DIR$/test/org/ejml/alg/dense/decomposition/svd/implicitqr/TestSvdImplicitQrAlgorithm.java" changelist="2aa233b3-7f86-43d1-b24a-257582ab2f2d" time="1388108349986" ignored="false" />
+    <file path="$PROJECT_DIR$/docs/release-checklist.txt" changelist="2aa233b3-7f86-43d1-b24a-257582ab2f2d" time="1388108349986" ignored="false" />
+    <file path="$PROJECT_DIR$/test/org/ejml/alg/dense/decomposition/bidiagonal/TestBidiagonalDecompositionRow.java" changelist="2aa233b3-7f86-43d1-b24a-257582ab2f2d" time="1388108349986" ignored="false" />
+    <file path="$PROJECT_DIR$/test/org/ejml/alg/dense/decomposition/hessenberg/TestHessenbergSimilarDecomposition.java" changelist="2aa233b3-7f86-43d1-b24a-257582ab2f2d" time="1388108349986" ignored="false" />
+    <file path="$PROJECT_DIR$/src/org/ejml/alg/dense/decomposition/eig/watched/WatchedDoubleStepQREigen.java" changelist="2aa233b3-7f86-43d1-b24a-257582ab2f2d" time="1388108349986" ignored="false" />
+    <file path="$PROJECT_DIR$/test/org/ejml/alg/block/decomposition/bidiagonal/TestBidiagonalHelper.java" changelist="2aa233b3-7f86-43d1-b24a-257582ab2f2d" time="1388108349986" ignored="false" />
+    <file path="$PROJECT_DIR$/test/org/ejml/TestUtilEjml.java" changelist="2aa233b3-7f86-43d1-b24a-257582ab2f2d" time="1388108349986" ignored="false" />
+    <file path="$PROJECT_DIR$/test/org/ejml/ops/TestMatrixFeatures.java" changelist="2aa233b3-7f86-43d1-b24a-257582ab2f2d" time="1388108349987" ignored="false" />
+    <file path="/ExampleFixedSizedMatrix.java" changelist="2aa233b3-7f86-43d1-b24a-257582ab2f2d" time="1388109505748e="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
@@ -136,7 +139,30 @@ compositionRow.java" line="263" class="org.ejml.alg.dense.decomposition.bidiagon
             <state line="31" column="73" selection-start="1156" selection-end="1156" vertical-scroll-proportion="0.0">
                  </file>
       <file leaf-file-name="DecompositionFactory.java" pinnedchange.txt current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/experimental/test/org/ejml/22" column="20" selection-start="708" selection-end="708e">
+        <entry file="file://$PROJECT_DIR$/experimental/test/org/ejml/27" column="30" selection-start="880" selection-end="880e">
+        <entry file="file://$PROJECT_DIR$/examples/test/org/ejml/example/TestPolynomialRootFinder.java">
+          <provider selected="true" editor-type-id="texExampleFixedSizedMatrix.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/examples/src/org/ejml/example/ExampleFixedSizedMatrix   </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LUDeco66" column="127" selection-start="2233" selection-end="2233" vertical-scroll-proportion="0.78075707">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </foldingorg/ejml/example/TestPolynomialRootFinder.java">
+          <provider selected="true" editor-type-id="texBenchmarkMultAndAddOpsolumn="51" selection-start="1012" selection-end="1012" vertical-scroll-proportion="-0.7549669">
+        benchmarks/src/org/ejml/ops/BenchmarkMultAndAddOps   </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LUDeco30" column="13" selection-start="875" selection-end="875e">
+        <entry file="file://$PROJECT_DIR$/examples/test/org/ejml/example/TestPolynomialRootFinder.java">
+          <provider selected="true" editor-type-id="texFixedMatrix3x3_64Folumn="51" selection-start="1012" selection-end="1012" vertical-scroll-proportion="-0.7549669">
+              <foldindata/FixedMatrix3x3_      </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LUDeco155" column="16" selection-start="4207" selection-end="4207e">
         <entry file="file://$PROJECT_DIR$/examples/test/org/ejml/example/TestPolynomialRootFinder.java">
           <provider selected="true" editor-type-id="texBidiagonalDecompositionRowolumn="51" selection-start="1012" selection-end="1012" vertical-scroll-proportion="-0.7549669">
               <foldinalg/dense/decomposition/bidiagonal/BidiagonalDecompositionRow  </provider>
@@ -150,7 +176,7 @@ compositionRow.java" line="263" class="org.ejml.alg.dense.decomposition.bidiagon
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LUDeco99" column="39" selection-start="3205" selection-end="3205e">
+      <file leaf-file-name="LUDeco99" column="0" selection-start="3205" selection-end="3205e">
         <entry file="file://$PROJECT_DIR$/examples/test/org/ejml/example/TestPolynomialRootFinder.java">
           <provider selected="true" editor-type-id="textor-type-id="text-editor">
             <state line="36" column="28" selection-start="1259" selection-end="1259" vertical-scroll-proportion="0.0">
@@ -186,15 +212,17 @@ compositionRow.java" line="263" class="org.ejml.alg.dense.decomposition.bidiagon
       <file leaf-file-name="LUDecomposition.java" pinned="false" c35" selection-start="1132" selection-end="1132e">
         <entry file="file://$PROJECT_DIR$/examples/test/org/ejml/example/TestPolynomialRootFinder.java">
           <provider selected="true" editor-type-id="texbuild.xmlrtion="0.0">
+             n-end="1877" vertical-scroll-proportion="0.0">
               <folding />
-            </state>
+build.xml current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/experimental/test/org/ejml/86" column="61" selection-start="3103" selection-end="3103e">
+        <entry file="file://$PROJECT_DIR$/examples/test/org/ejml/example/TestPolynomialRootFinder.java">
+          <provider selected="true" editor-type-id="texpom.xml="51" selection-start="1012" selection-end="1012" vertical-scroll-proportion="-0.7549669">
+        pom.xmlstate>
           </provider>
-        </entrybuild.xml current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/experimental/test/org/ejml/77" column="15" selection-start="2749" selection-end="2749" vertical-scroll-proportion="0.83201265$/src/org/ejml/factory/LUDecomposition.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state pom.xml="51" selection-start="1012" selection-end="1012" vertical-scroll-proportion="-0.7549669">
-        pom.xml current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/experimental/test/org/ejml/</entry>
+        </entry>
+      </file>
+      <file leaf-file-name="LUDeco</entry>
       </file>
       <file leaf-file-name="change.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/change.txt">
@@ -215,8 +243,7 @@ compositionRow.java" line="263" class="org.ejml.alg.dense.decomposition.bidiagon
         <option value="$PROJECT_DIR$/test/org/ejml/alg/dense/rref/TestRrefGaussJordanRowPivot.java" />
         <option value="$PROJECT_DIR$/benchmarks/src/org/ejml/alg/dense/linsol/BenchmarkSolveEq.java" />
         <option value="$PROJECT_DIR$/design_notes.txt" />
-        <option value="$PROJECT_DIR$/src/org/ejml/UtilEjml.java" />
-        <option value="$PROJECT_DIR$/examples/src/org/ejml/example/KalmanFilterSimple.java" />
+        <option value="$rg/ejml/example/KalmanFilterSimple.java" />
         <option value="$PROJECT_DIR$/src/org/ejml/ops/CommonOps.java" />
         <option value="$PROJECT_DIR$/src/org/ejml/alg/dense/decomposition/eig/WatchedDoubleStepQRDecomposition.java" />
         <option value="$PROJECT_DIR$/src/org/ejml/alg/dense/decomposition/eig/watched/WatchedDoubleStepQREigenvector.java" />
@@ -237,6 +264,7 @@ compositionRow.java" line="263" class="org.ejml.alg.dense.decomposition.bidiagon
   </component>
   <component name="MavenRunner">
     <opbuild.xml>
+  <compon  <option value="$PROJECT_DIR$/examples/src/org/ejml/example/ExampleFixedSizedMatrix.java>
   <component name="ModuleEditorState">
     <option name="LAST_EDITED_MODULE_NAME" />
     <option name="LAST_EDITED_TAB_NAME" />
@@ -284,8 +312,6 @@ compositionRow.java" line="263" class="org.ejml.alg.dense.decomposition.bidiagon
             <PATH_ELEMENT>
               <option name="myItemId" value="EJML" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </     <option name="myItemId" value="trunk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -294,6 +320,17 @@ compositionRow.java" line="263" class="org.ejml.alg.dense.decomposition.bidiagon
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+         PackagesPane">
+        <subPane        </  <PATH"myItemId" value="EJML" />
+              <option name="myItemType" value="impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+  ackageellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+     ejml     <option name="myItemId" value="EJML" />
+              <option name="myItemType" value="cackageViewModuleELEMENT>
               <option name="myItemId" value="trunk" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -320,11 +357,65 @@ compositionRow.java" line="263" class="org.ejml.alg.dense.decomposition.bidiagon
             <PATH_ELEMENT>
               <option name="myItemId" value="trunk" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" /  <PATH_ELEMENT>
-              <option name="myItemId" value="generate.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="src     <option name="myItemId" value="EJML" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </  <PATH"myItemId" value="EJML" />
+              <option name="myItemType" value="impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
-  siDirectoryLEMENT>
+  om.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trunk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" /  <PATH_ELEMENT>
+              <option name="myItemId" value="src     <option name="myItemId" value="EJML" />
+              <option name="myItemType" value="csiDirectoryLEMENT>
+              <option name="myItemId" value="EJML" />
+              <option name="myItemType" value="ejml     <option name="myItemId" value="EJML" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </  <PATH"myItemId" value="EJML" />
+              <option name="myItemType" value="impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+  om.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trunk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" /  <PATH_ELEMENT>
+              <option name="myItemId" value="src     <option name="myItemId" value="EJML" />
+              <option name="myItemType" value="csiDirectoryLEMENT>
+              <option name="myItemId" value="EJML" />
+              <option name="myItemType" value="ejml     <option name="myItemId" value="EJML" />
+              <option name="myItemType" value="csiDirectoryLEMENT>
+              <option name="myItemId" value="EJML" />
+              <option name="myItemType" value="data     <option name="myItemId" value="EJML" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </  <PATH"myItemId" value="EJML" />
+              <option name="myItemType" value="impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+  om.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trunk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" /  <PATH_ELEMENT>
+              <option name="myItemId" value="benchmarks     <option name="myItemId" value="EJML" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </  <PATH"myItemId" value="EJML" />
+              <option name="myItemType" value="impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+  om.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trunk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" /  <PATH_ELEMENT>
+              <option name="myItemId" value="benchmarks     <option name="myItemId" value="EJML" />
+              <option name="myItemType" value="csiDirectoryLEMENT>
               <option name="myItemId" value="EJML" />
               <option name="myItemType" value="src.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -335,32 +426,102 @@ compositionRow.java" line="263" class="org.ejml.alg.dense.decomposition.bidiagon
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
   siDirectoryELEMENT>
-              <option name="myItemId" value="trunk" />
-              <option name="myItemType" PATH_ELEMENT>
+              <option name="myItemId" value="trunk" />" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
+  om.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="trunk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" /  <PATH_ELEMENT>
+              <option name="myItemId" value="benchmarks     <option name="myItemId" value="EJML" />
+              <option name="myItemType" value="csiDirectoryLEMENT>
+              <option name="myItemId" value="EJML" />
+              <option name="myItemType" value="src.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+  siDirectoryLEMENT>
               <option name="myItemId" value="EJML" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+  siDirectoryELEMENT>
+              <option name="myItemId"   <PATH_ELEMENT>
+              <option name="myItemId" value="ops     <option name="myItemId" value="EJML" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </  <PATH"myItemId" value="EJML" />
+              <option name="myItemType" value="impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+  om.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trunk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" /  <PATH_ELEMENT>
+              <option name="myItemId" value="benchmarks     <option name="myItemId" value="EJML" />
+              <option name="myItemType" value="csiDirectoryLEMENT>
+              <option name="myItemId" value="EJML" />
+              <option name="myItemType" value="src.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+  siDirectoryLEMENT>
+              <option name="myItemId" value="EJML" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+  siDirectoryELEMENT>
+              <option name="myItemId"   <PATH_ELEMENT>
+              <option name="myItemId" value="alg     <option name="myItemId" value="EJML" />
+              <option name="myItemType" value="csiDirectoryLEMENT>
+              <option name="myItemId" value="EJML" />
+              <option name="myItemType" value="fixed     <option name="myItemId" value="EJML" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </  <PATH"myItemId" value="EJML" />
+              <option name="myItemType" value="impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+  om.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trunk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" /  <PATH_ELEMENT>
+              <option name="myItemId" value="benchmarks     <option name="myItemId" value="EJML" />
+              <option name="myItemType" value="csiDirectoryLEMENT>
+              <option name="myItemId" value="EJML" />
+              <option name="myItemType" value="src.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+  siDirectoryLEMENT>
+              <option name="myItemId" value="EJML" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+  siDirectoryELEMENT>
+              <option name="myItemId"   <PATH_ELEMENT>
+              <option name="myItemId" value="alg     <option name="myItemId" value="EJML" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </ENT>
             <PATH_ELEMENT>
                        <option name="myItemId" value="experimental" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
+          </Pproject.structure.last.edited" value="ModulesTH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="EJML" />
-              <option name="myItemType" valModules.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+              <option name="myItemId" value="src" />Width0" value="60TH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />Width3" value="32" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="OverrideImplement.combined" value="trueTH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />Width2" value="83ellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="trunk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="experimental" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+    1" value="1TH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -391,33 +552,32 @@ compositionRow.java" line="263" class="org.ejml.alg.dense.decomposition.bidiagon
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="alg" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
+              <option name="myItemType" value="com.intellij.ide.projectGoToClass.includeLibraries" value="falseTH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="EJML" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
+              <option name="myItemId" value="src" />Width5" value="770name="myItemId" value="EJML" />
+              <option name="myItemType" value="com.intellij.ide.prTH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="trunk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
+              <option name="myGoToFile.includeJavaFiles" value="false        </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="experimental" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com5View.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+   Order3" value="ATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src<PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nod            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <o2" value="2.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ejml" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="alg" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+        0" value="0" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="trusiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="dense" />
@@ -434,8 +594,7 @@ compositionRow.java" line="263" class="org.ejml.alg.dense.decomposition.bidiagon
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="expervider_treeWidth2" value="79" />
-    <property name="MemberChooser.sorted" value="false" />
+              <option name="myItemId" value="expervider_treeWidth2" valApplication.BenchmarkMultiplicationFixed <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth1" value="93" />
     <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder4" value="4" />
@@ -450,53 +609,7 @@ compositionRow.java" line="263" class="org.ejml.alg.dense.decomposition.bidiagon
     <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth4" value="799" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth5" value="770" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/experimental/src/org/ejml/alg/dense/decomposition/lu" />
-    <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="options.lastSelected" value="fileTemplates" />
-    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder5" value="5" />
-    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder3" value="3" />
-    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder4" value="4" />
-    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder1" value="1" />
-    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder2" value="2" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder0" value="0" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.searchVisible" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="org.ejml.alg.dense.linsol.gj" />
-      <recent name="org.ejml.alg.dense.linsol" />
-      <recent name="org.ejml.alg.dense.linsol.qr" />
-      <recent name="org.ejml.alg.dense.linsol.svd" />
-      <recent name="org.ejml.ops" />
-    </key>
-    <key name="MoveMembersDialog.RECENTS_KEY">
-      <recent name="org.ejml.alg.block.BlockMatrixOps" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="org.ejml.alg.dense.decomposition.lu" />
-      <recent name="org.ejml.alg.dense.misc" />
-      <recent name="org.ejml.alg.dense.rref" />
-      <recent name="org.ejml.factory" />
-      <recent name="org.ejml.factories" />
-    </key>
-  </component>
-  <component name="RunManager" selected="JUnit.org.ejml">
-    <configuration default="false" name="TestWatchedDoubleStepQRDecomposition" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" runner="emma">
-        <pattern>
-          <option name="PATTERN" value="org.ejml.alg.dense.decomposition.eig.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="ejml" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="org.ejml.alg.dense.decomposition.eig" />
-      <option name="MAIN_CLASS_NAME" value="org.ejml.alg.dense.decomposition.eig.TestWatchedDoubleStepQRDecomposition" />
+    <property name="options.splitter.dtion name="MAIN_CLASS_NAME" value="org.ejml.alg.dense.decomposition.eig.TestWatchedDoubleStepQRDecomposition" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
@@ -559,7 +672,51 @@ compositionRow.java" line="263" class="org.ejml.alg.dense.decomposition.bidiagon
       <option name="MAIN_CLASS_NAME" value="org.ejml.example.PolynomialRootFinder" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+ false" name="ExampleFixedSizedMatrixME" value="org.ejml.alg.dense.decomposition.eig.TestWatchedDoubleStepQRDecomposition" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" example_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASexample.ExampleFixedSizedMatrixcent name="org.ejml.factory" />
+      <recent name="org.ejml.factories" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.org.ejml">
+    <configuration default="false" name="TestWatchedDoubleStepQRDecomposition" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" runner="emma">
+        <pattern>
+          <option name="PATTERN" value="org.ejml.alg.dense.decomposition.eig.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="ejml" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="org.ejml.alg.dense.decomposition.eig" />
+      <option nameMultiplicationFixedME" value="org.ejml.alg.dense.decomposition.eig.TestWatchedDoubleStepQRDecomposition" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+ fixed_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAfixed.BenchmarkMultiplicationFixedcent name="org.ejml.factory" />
+      <recent name="org.ejml.factories" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.org.ejml">
+    <configuration default="false" name="TestWatchedDoubleStepQRDecomposition" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" runner="emma">
+        <pattern>
+          <option name="PATTERN" value="org.ejml.alg.dense.decomposition.eig.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="ejml" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="org.ejml.alg.dense.decomposition.eig"     <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -800,22 +957,20 @@ compositionRow.java" line="263" class="org.ejml.alg.dense.decomposition.bidiagon
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="BenchmarkQrDecomposition" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="emma">
-        <pattern>
-          <option name="PATTERN" value="org.ejml.alg.dense.decomposition.qr.*" />
+      <method Application.BenchmarkLuDecomposition" />
+      <item index="8" class="java.lang.String" itemvalue="JUnit.TestSwitchingEigenDecomposition" />
+      <item index="9" class="java.lang.String" itemvalue="Application.ExampleFixedSizedMatrix" />
+      <item index="10" class="java.lang.String" itemvalue="Application.BenchmarkMultiplicationFixedn.qr.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="org.ejml.alg.dense.decomposition.qr.BenchmarkQrDecomposition" />
-      <option name="VM_PARAMETERS" value="-Xms2g -Xmx6g -server" />
+      <option name="MAINApplication.BenchmarkMultiplicationFixed" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ExampleFixedSizedMatrix" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.org.ejml" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestSwitchingEigenDecomposition" />
+        <item index="4erver" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" value="" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="WORE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="ejml" />
@@ -945,7 +1100,7 @@ compositionRow.java" line="263" class="org.ejml.alg.dense.decomposition.bidiagon
     </task>
     <task id="LOCAL-00003" summary="Failed commit: Default">
       <changelist id="d918aade-e83e-48be-9f66-4882723946" sideWeight="0.6813533se" content_ui="tabs" />
-      <window_info id="Commander" active="false" DebugOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" cotrue" weight="0.50197005 />
+      <window_info id="Commander" active="false" DebugOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" cofalse" weight="0.501182 />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" inteEvent LogOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />CAL-00005" summary="- Removed Gauss-Jordan linear solver&#10;- Created ReducedRowEchelonForm interface&#10;  * Added GJ implementation&#10;  * better testing for RREF">
       <created>1345551562103</created>
       <updated>1345551562103</updated>
@@ -981,7 +1136,7 @@ r" value="9" />
       <is-autoscroll-to-source value="false" />
     </todo-panel>
   </componentru <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1055" extended-sta5187" sideWeight="0.49802995="false" />
+    <frame x="0" y="0" width="1920" height="1055" extended-sta5187" sideWeight="0.49881798="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32902467" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1094,28 +1249,7 @@ r" value="9" />
         <filter targetName="main" isVisible="false" />
       </targetFilters seem to have issues with matrix inverse" />
     <MESSAGE value="- Improved QR pivot decomposition to make it more stable&#10;- Various other tweaks" />
-    <Mfactory/DecompositionInterfaceative&#10;- Made the use of bidiagonal tall decomposition configurable" />
-    <MESSAGE valud bug in SimpleSVD where the returned singular values were not sorted&#10;" />
-    <MESSAGE value="- Update comment" />
-  </component>
-  <component name="VssConfiguration">
-    <option name="CLIENT_PATH" value="" />
-    <option name="SRCSAFEINI_PATH" value="" />
-    <option name="USER_NAME" value="" />
-    <option name="PWD" value="" />
-    <CheckoutOptions>
-      <option name="COMMENT" value="" />
-      <option name="DO_NOT_GET_LATEST_VERSION" value="false" />
-      <option name="REPLACE_WRITABLE" value="false" />
-      <option name="RECURSIVE" value="false" />
-    </CheckoutOptions>
-    <CheckinOptions>
-      <option name="COMMENT" value="" />
-      <option name="KEEP_CHECKED_OUT" value="false" />
-      <option name="RECURSIVE" value="false" />
-    </CheckinOptions>
-    <AddOptions>
-      <option name="STORE_ONLY_LATEST_VERSION" value="false" />
+    <MRE_ONLY_LATEST_VERSION" value="false" />
       <option name="CHECK_OUT_IMMEDIATELY" value="false" />
     </AddOptions>
     <UndocheckoutOptions>
@@ -1167,8 +1301,8 @@ r" value="9" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/ejml/alg/dense/decomposition/eig/watched/WatchedDoubleStepQREigen.java">
-      <provider selected="true" editor-type-id="text-editor99" column="39" selection-start="3205" selection-end="3205/>
-      <option name="REPLACE_LOCAL_COPY" value="2" />
+      <provider selected="true" editor-type-id="text-editor99" column="0" selection-start="3205" selection-end="3205e">
+        <entry file="file://$PROJECT_DIR$/ue="2" />
       <option name="RECURSIVE" value="false" />
     </UndocheckoutOptions>
     <GetOptiopom.xml&#10;- Made the use of bidiagonal tall decomposition configurable" />
@@ -1180,18 +1314,41 @@ r" value="9" />
       <option name="REPLACE_LOCAL_COPY" value="2" />
       <option name="RECURSIVE" value="false" />
     </UndocheckoutOptions>
-    <GetOptiochange.txt&#10;- Made the use of bidiagonal tall decomposition configurable" />
-    <MESSAGE val22" column="20" selection-start="708" selection-end="708/>
-      <option name="REPLACE_LOCAL_COPY" value="2" />
-      <option name="RECURSIVE" value="false" />
-    </UndocheckoutOptions>
-    <GetOptioe="file://$PROJECT_DIR$/src/org/ejml/alg/dense/decomposition/eig/watched/WatchedDoubleStepQREigenvalue.java">
-  40" column="35" selection-start="1132" selection-end="113 />
-      <option name="REPLACE_LOCAL_COPY" value="2" />
-      <option name="RECURSIVE" value="false" />
-    </UndocheckoutOptions>
-    <GetOptiobuild.xml&#10;- Made the use of bidiagonal tall decomposition configurable" />
-    <MESSAGE val77" column="15" selection-start="2749" selection-end="2749" vertical-scroll-proportion="0.83201265CT_DIR$/src/org/ejml/alg/dense/decomposition/eig/WatchedDoubleStepQRDecompo-id="text-editor">
+    <GetOptiosrc/org/ejml/UtilEjmlative&#10;- Made the use of bidiagonal tall decomposition configurable" />
+    <MESSAGE valu0" column="35" selection-start="1132" selection-end="1132ortion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/ejml/alg/densebuild.xml&#10;- Made the use of bidiagonal tall decomposition configurable" />
+    <MESSAGE val86" column="61" selection-start="3103" selection-end="3103ortion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/ejml/alg/densechange.txt&#10;- Made the use of bidiagonal tall decomposition configurable" />
+    <MESSAGE val27" column="30" selection-start="880" selection-end="88portion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/ejml/alg/dense/decomposition/eigFixedMatrix3x3_64Fative&#10;- Made the use of bidiagonal tall decomposition configurable" />
+    <MESSAGE val155" column="16" selection-start="4207" selection-end="4207ortion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/ejml/alg/densebenchmarks/src/org/ejml/ops/BenchmarkMultAndAddOpsative&#10;- Made the use of bidiagonal tall decomposition configurable" />
+    <MESSAGE val30" column="13" selection-start="875" selection-end="875ortion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/ejml/alg/denseexamples/src/org/ejml/example/ExampleFixedSizedMatrixative&#10;- Made the use of bidiagonal tall decomposition configurable" />
+    <MESSAGE val66" column="127" selection-start="2233" selection-end="2233" vertical-scroll-proportion="0.78075707">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </foldingg/dense/decomposition/eig/WatchedDoubleStepQRDecompo-id="text-editor">
         <state line="33" column="21" selection-start="1059" selection-end="1059" vertical-scroll-proportion="0.0">
           <folding />
         </state>
